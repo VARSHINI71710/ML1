@@ -26,11 +26,7 @@ It uses a Random Forest Classifier trained on historical customer data.
 
 ⚙️ Installation & Setup
 
-1️⃣ Clone this repository:
-
-git clone https://github.com/your-username/churn-prediction-app.git
-cd churn-prediction-app
-
+1️⃣ SEt up the environment :
 
 2️⃣ Install dependencies:
 
